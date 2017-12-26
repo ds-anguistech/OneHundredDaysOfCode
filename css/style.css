@@ -1,0 +1,24 @@
+body{
+	background-color:#cdfee5;
+	font-family:arial;
+	font-size:14px;
+}	
+
+#container{
+	width:460px;
+	margin:auto;
+	border:5px solid #cccccc;
+	padding:0 20px 20px 20px;
+	border-radius:10px;
+	background:#e5ffb1;
+	min-height: 400px;
+}
+
+li{
+		list-style:none;
+}
+
+label{		
+		display: inline-block;
+		width: 150px;
+}
